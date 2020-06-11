@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "name": "CSharp Book",
+  "description": "Csharp Tutorial for Beginners",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icon/ic_Appname_56.png",
+    "112": "/icon/ic_Appname_112.png",
+    "128": "/icon/icon_128.png"
+  },
+  "installs_allowed_from": [
+    "*"
+    ],
+  "categories": [
+   "book/reference"
+    ],
+  "developer": {
+    "name": "OLM",
+    "url": "http://www.startcoding.life/"
+  },
+  "locales": {
+    "en-US": {
+      "name": "CSharp Book",
+      "subtitle": "tutorial",
+      "description": "Csharp Tutorial for Beginners"
+    }
+  },
+  "categories": [
+  "health",
+  "sports"
+    ],
+  "cursor": true,
+  "ime_default_softkey_bar": true,
+  "fullscreen": "true",
+  "orientation": [ "landscape" ],
+  "default_locale": "en-US"
+}
